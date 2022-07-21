@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Infrastructure.deps.json
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Infrastructure.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Infrastructure.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\refint\vsc.Infrastructure.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\ref\vsc.Infrastructure.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Application.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Domain.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Application.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\bin\Debug\net6.0\vsc.Domain.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Infrastructure\obj\Debug\net6.0\vsc.Infrastructure.csproj.CopyComplete

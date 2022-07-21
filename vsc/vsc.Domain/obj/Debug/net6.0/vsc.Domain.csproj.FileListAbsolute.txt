@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\bin\Debug\net6.0\vsc.Domain.deps.json
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\bin\Debug\net6.0\vsc.Domain.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\bin\Debug\net6.0\vsc.Domain.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\refint\vsc.Domain.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\vsc.Domain.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Domain\obj\Debug\net6.0\ref\vsc.Domain.dll

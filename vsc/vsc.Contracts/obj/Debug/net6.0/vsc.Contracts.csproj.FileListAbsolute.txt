@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\bin\Debug\net6.0\vsc.Contracts.deps.json
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\bin\Debug\net6.0\vsc.Contracts.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\bin\Debug\net6.0\vsc.Contracts.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.AssemblyInfo.cs
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\refint\vsc.Contracts.dll
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\vsc.Contracts.pdb
+C:\Users\User\source\repos\vsc\vsc\vsc.Contracts\obj\Debug\net6.0\ref\vsc.Contracts.dll
